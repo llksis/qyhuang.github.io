@@ -10,7 +10,7 @@ first_name: Qianyi
 last_name: HUANG
 
 # Status emoji
-status:Phd/RA position searching!
+status: Phd/RA position searching!
   icon: 🙌
 
 # Is this the primary user of the site?
